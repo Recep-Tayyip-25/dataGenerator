@@ -1,0 +1,10 @@
+
+.big-header{
+    position: relative;
+    top: 50%;
+}
+.header{
+    margin: 0%;
+    color:#31eeff ;
+    font-family: MyWebFont;
+}

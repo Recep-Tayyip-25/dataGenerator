@@ -1,0 +1,18 @@
+
+.type{
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+  }
+.form-type{
+    border-width:medium;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 25px;
+  }
+.itemHeader{
+  text-transform: uppercase;
+}
+.percentage-range{
+  padding-top: 5%;
+}

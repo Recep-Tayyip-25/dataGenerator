@@ -1,0 +1,14 @@
+.big-header{
+    position: relative;
+    top: 50%;
+}
+.header{
+    padding-bottom: 5%;
+}
+#logo{
+    width: 100%;
+    height: auto;
+  }
+  h2, h4 {
+    display: inline;
+}
